@@ -1,0 +1,36 @@
+{
+  "name": "BaseBootstrapWebpack",
+  "version": "1.0.0",
+  "description": "A base template project with Bootstrap 4.4.1, jQuery 3.4.1 &amp; Popper.js 1.16.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orunnals/BaseBootstrapWebpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orunnals/BaseBootstrapWebpack/issues"
+  },
+  "homepage": "https://github.com/orunnals/BaseBootstrapWebpack#readme",
+  "devDependencies": {
+    "autoprefixer": "^9.7.3",
+    "css-loader": "^3.3.0",
+    "node-sass": "^4.13.0",
+    "postcss-loader": "^3.0.0",
+    "sass-loader": "^8.0.0",
+    "style-loader": "^1.0.1",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  },
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.0"
+  }
+}
