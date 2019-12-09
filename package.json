@@ -1,5 +1,5 @@
 {
-  "name": "BaseBootstrapWebpack",
+  "name": "base-bootstrap",
   "version": "1.0.0",
   "description": "A base template project with Bootstrap 4.4.1, jQuery 3.4.1 &amp; Popper.js 1.16.0",
   "main": "index.js",
